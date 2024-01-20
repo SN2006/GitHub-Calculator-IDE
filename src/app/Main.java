@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Super app!");
-        System.out.println("The informative application.");
+        System.out.println("Calculator for base calculations");
         int a = 10;
         int b = 4;
         int c = add(a, b);
